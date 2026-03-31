@@ -1,0 +1,45 @@
+# Model weights (too large for GitHub)
+models/weights/*.pt
+*.pt
+*.pth
+
+# Dataset (too large, requires registration)
+data/raw/
+data/processed/
+data/processed_v2/
+*.png
+*.jpg
+*.jpeg
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# ROS 2 build artifacts
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Environment
+.env
+*.env
+venv/
+conda-env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.cache

@@ -1,0 +1,22 @@
+# Core ML
+torch>=2.5.0
+torchvision>=0.20.0
+ultralytics>=8.4.0
+numpy<2.0.0
+
+# Computer Vision
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0
+
+# Utilities
+matplotlib>=3.7.0
+pandas>=2.0.0
+scipy>=1.11.0
+
+# ROS 2 Python dependencies
+# (ROS 2 Jazzy must be installed separately via apt)
+# sudo apt install ros-jazzy-desktop
+# sudo apt install ros-jazzy-cv-bridge ros-jazzy-vision-opencv
+
+# Gazebo Python bindings
+# (installed via apt with gz-harmonic)
