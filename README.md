@@ -1,6 +1,5 @@
 # Surgical Instrument Tracking & Digital Twin Synchronisation
 
-> **Masters Project — Intelligent Robotics, University of Galway**
 > AI-driven real-time surgical instrument detection, stereo depth estimation, and Digital Twin synchronisation for Minimally Invasive Surgery.
 
 ---
