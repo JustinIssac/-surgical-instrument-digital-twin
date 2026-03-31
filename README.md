@@ -261,8 +261,7 @@ surgical-instrument-digital-twin/
 - [ ] Robustness testing under occlusion and lighting variation
 - [ ] Keep-Out Zone safety feature in Gazebo
 - [ ] AR screen overlay visualiser
-- [ ] NVIDIA Isaac Sim migration (pending university GPU access)
-- [ ] Final academic report
+- [ ] NVIDIA Isaac Sim migration (pending)
 
 ---
 
